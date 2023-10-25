@@ -1,0 +1,1 @@
+y_pred_binary = [1 if p > 0.5 else 0 for p in y_pred]
