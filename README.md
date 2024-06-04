@@ -1,2 +1,2 @@
 # recommendation-system-for-personal-use-
-This model uses the custom dataset and predicts the productive and non productive time based  on past data .This is just a simple project and the datset is self generated .I was not able to implement this idea in the way i wanted but this can be more enhanced in comming time. 
+The objective of this project is to predict the category of content (e.g., comedy, news, entertainment) you are likely to engage with next based on your past interactions with different apps at various times of the day.This is just a simple project and the datset is self generated .I was not able to implement this idea in the way i wanted but this can be more enhanced in comming time. 
