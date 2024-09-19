@@ -8,9 +8,9 @@ In today's digital age, mobile applications are utilized for various purposes th
 
 Mobile apps can fulfill multiple roles, and traditional classification methods often struggle to capture this contextual nature. For example, simply knowing that a user is on YouTube does not reveal whether they are watching entertainment, educational content, or news. The primary challenge is to predict the purpose behind app usage by analyzing behavioral patterns such as time of day and duration. The goal is to develop a model that accurately classifies app usage contexts, overcoming the limitations of straightforward app name-based classification.
 
-Dataset Overview
+#Dataset Overview
 
-#The dataset includes the following features:
+The dataset includes the following features:
 appName: The name of the app being used (e.g., YouTube, Facebook).
 time: Time since a reference point in hours, transformed to represent the hour of day and day of the week.
 duration: The duration of app usage.
